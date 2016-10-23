@@ -35,7 +35,7 @@
     "react": "^15.3.1",
     "react-dom": "^15.3.1",
     "stylus": "^0.54.5",
-    "uglify-js": "^2.7.3",
+    "uglify-js": "^2.7.4",
     "watchify": "^3.7.0"
   },
   "dependencies": {
