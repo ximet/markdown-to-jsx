@@ -27,6 +27,7 @@
   "jsnext:main": "index.esm.js",
   "module": "index.esm.js",
   "devDependencies": {
+    "@types/react": "^15.0.25",
     "autoprefixer-stylus": "^0.13.0",
     "babel-cli": "^6.14.0",
     "babel-jest": "^19.0.0",
